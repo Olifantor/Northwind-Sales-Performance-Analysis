@@ -113,6 +113,23 @@ Additional measures support product ranking, cumulative revenue percentage, and 
 
 Power BI file: [`powerbi/Northwind\_Sales\_Analysis.pbix`](powerbi/Northwind_Sales_Analysis.pbix)
 
+## Power BI Dashboard Screenshots
+
+### 1. Sales Overview
+![Sales Overview](images/01_sales_overview.png)
+
+### 2. Product Performance
+![Product Performance](images/02_product_performance.png)
+
+### 3. Customer & Geographic Analysis
+![Customer Analysis](images/03_customer_analysis.png)
+
+### 4. Employee Analysis
+![Employee Analysis](images/04_employee_analysis.png)
+
+
+
+
 ## Key Business Insights
 
 * **Revenue Growth:** Revenue increased by **120.72%** from January–April 2014 to January–April 2015.
